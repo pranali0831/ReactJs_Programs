@@ -1,0 +1,24 @@
+.container{
+    border: 5px royalblue groove;
+    padding:50px;
+}
+.form-field{
+    width:200px;
+    height: 23px;
+}
+.submit{
+    width: 70px;
+    font-size: larger;
+}
+.login-box{
+    width: 600px;
+    position:fixed ;
+    left: 300px;
+    margin-top: 50px;
+    border-color: red;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
